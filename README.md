@@ -1,1 +1,1 @@
-# MyOS- a Linux-Distro
+# MyOS - a Linux Distro
